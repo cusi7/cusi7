@@ -7,6 +7,7 @@
 Soy de Argentina, de la ciudad de Buenos Aires. Me apasiona el desarrollo web, por lo que estoy culminando el bootcamp de Henry.🚀
 
 Me caracterizo por ser una persona curiosa, que siempre esta dispuesta a aprender y a atravesar nuevos desafios. Tengo habilidades relacionadas al desarrollo web tanto front como back-end, asi como también base de datos y diseño.
+#
 
 
 ## TechSkills:
@@ -23,6 +24,7 @@ Me caracterizo por ser una persona curiosa, que siempre esta dispuesta a aprende
 + Bootstrap
 + HTML
 + CSS
+#
 
 
 ## Puedes contactarme por:
@@ -31,10 +33,10 @@ Me caracterizo por ser una persona curiosa, que siempre esta dispuesta a aprende
 <img align="center" src="https://github.com/cusi7/cusi7/blob/main/Logos/linkedin-icon.png" alt="https://www.linkedin.com/in/griselda-juarez-developer" height="40" /></a>
 
  Email: cusijuarez07@gmail.com
+#
 
 
- ## :pushpin: Mis proyectos
-
+## :pushpin: Mis proyectos
 
 ### Recipe Book
 <p>
