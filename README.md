@@ -1,5 +1,5 @@
 <!-- # Hola, soy Griselda Juarez! 👋  -->
-<img src="https://github.com/cusi7/cusi7/blob/main/Imagenes/head%20Yo.png">
+<img src="https://github.com/cusi7/cusi7/blob/main/Imagenes/head%20Yo.png" width="100%">
 
 ## Full Stack Developer💻
 
