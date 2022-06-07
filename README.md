@@ -1,5 +1,5 @@
-# Hola, soy Griselda Juarez! 👋 
-
+<!-- # Hola, soy Griselda Juarez! 👋  -->
+<img src="https://github.com/cusi7/cusi7/blob/main/Imagenes/head%20Yo.png">
 
 ## Full Stack Developer💻
 
@@ -12,7 +12,7 @@ Me caracterizo por ser una persona curiosa, que siempre esta dispuesta a aprende
 ## Puedes contactarme por:
 
 <a href="https://www.linkedin.com/in/griselda-juarez-developer" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/griselda-juarez-developer" height="30" width="40" /></a>
+<img align="center" src="https://github.com/cusi7/cusi7/blob/main/Logos/linkedin-icon.png" alt="https://www.linkedin.com/in/griselda-juarez-developer" height="40" /></a>
 
  Email: cusijuarez07@gmail.com
 <!--
