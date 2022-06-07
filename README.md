@@ -38,19 +38,31 @@ Me caracterizo por ser una persona curiosa, que siempre esta dispuesta a aprende
 
 ### Recipe Book
 <p>
-  <a><img width="30%" src="https://github.com/cusi7/cusi7/blob/main/Imagenes/rec-book-1.jpg"></a>
-  <a><img width="30%" src="https://github.com/cusi7/cusi7/blob/main/Imagenes/rec-book-2.jpg"></a>
-  <a><img width="30%" src="https://github.com/cusi7/cusi7/blob/main/Imagenes/rec-book-3.jpg"></a>
+  <a><img width="33%" src="https://github.com/cusi7/cusi7/blob/main/Imagenes/rec-book-1.jpg"></a>
+  <a><img width="33%" src="https://github.com/cusi7/cusi7/blob/main/Imagenes/rec-book-2.jpg"></a>
+  <a><img width="33%" src="https://github.com/cusi7/cusi7/blob/main/Imagenes/rec-book-3.jpg"></a>
 </p>
 <p>
-  <a><img width="30%" src="https://github.com/cusi7/cusi7/blob/main/Imagenes/rec-book-4.jpg"></a>
-  <a><img width="30%" src="https://github.com/cusi7/cusi7/blob/main/Imagenes/rec-book-5.jpg"></a>
-  <a><img width="30%" src="https://github.com/cusi7/cusi7/blob/main/Imagenes/rec-book-6.jpg"></a>
+  <a><img width="33%" src="https://github.com/cusi7/cusi7/blob/main/Imagenes/rec-book-4.jpg"></a>
+  <a><img width="33%" src="https://github.com/cusi7/cusi7/blob/main/Imagenes/rec-book-5.jpg"></a>
+  <a><img width="33%" src="https://github.com/cusi7/cusi7/blob/main/Imagenes/rec-book-6.jpg"></a>
+</p>
+
+### NFT Market (Proyecto grupal)
+<p>
+  <a><img width="33%" src="https://github.com/cusi7/cusi7/blob/main/Imagenes/nftM-1.jpg"></a>
+  <a><img width="33%" src="https://github.com/cusi7/cusi7/blob/main/Imagenes/nftM-2.jpg"></a>
+  <a><img width="33%" src="https://github.com/cusi7/cusi7/blob/main/Imagenes/nftM-3.jpg"></a>
+</p>
+<p>
+  <a><img width="33%" src="https://github.com/cusi7/cusi7/blob/main/Imagenes/nftM-4.jpg"></a>
+  <a><img width="33%" src="https://github.com/cusi7/cusi7/blob/main/Imagenes/nftM-5.jpg"></a>
+  <a><img width="33%" src="https://github.com/cusi7/cusi7/blob/main/Imagenes/nftM-6.jpg"></a>
 </p>
 <!--
 **cusi7/cusi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -60,4 +72,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
