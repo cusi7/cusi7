@@ -4,7 +4,7 @@
 ## Full Stack Developer💻
 
 
-Soy de Argentina, de la ciudad de Buenos Aires. Me apasiona el desarrollo web, por lo que estoy culminando el bootcamp de Henry.🚀
+Soy de Argentina, de la ciudad de Buenos Aires. Soy Full Stack Developer.🚀
 
 Me caracterizo por ser una persona curiosa, que siempre esta dispuesta a aprender y a atravesar nuevos desafios. Tengo habilidades relacionadas al desarrollo web tanto front como back-end, asi como también base de datos y diseño.
 #
